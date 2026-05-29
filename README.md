@@ -5,7 +5,7 @@ One-Click Installation
 
 2.选择安装路径，安装哪里都可以（英文路径），安装位置存放V8源码
 
-3.最后安装完成会显示安装成功<img width="365" height="41" alt="image" src="https://github.com/user-attachments/assets/d4a00b76-23f3-4c53-92ce-4d370d0d5ffe" />
+3.最后安装完成会显示安装成功<img width="579" height="66" alt="image" src="https://github.com/user-attachments/assets/9458d9a7-09fb-4c2c-9dfb-ea21158993fe" />
 
 4.安装成功后可以运行测试程序测试
 
